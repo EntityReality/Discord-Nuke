@@ -5,7 +5,7 @@ from discord import Permissions
 from colorama import Fore, Style
 import asyncio
 from webserver import keep_alive
-token = "ODk0MTE0OTgyNzQzMTQ2NTc3.YVlTdw.YHxC2oFecB-PHkVjwsHfIjbHgnI"
+token = "Your Token Here"
 
 
 SPAM_CHANNEL =  ["LOL" , "NUKED" , "LMAO" , "oops","F IN CHAT","nuked","You got Nuked","BEAMED CLOWNS ","30 Kill Streak Complete","Call your Owner","Nuked ","I love Everyone","beamed"]
