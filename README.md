@@ -1,6 +1,8 @@
 # Discord-Nuke
 Python Code for Discord Bot to Nuke a Server
 
+Clone in Replit
+
 ### 🧰  Set-up
 
 Go to the file `main.py`
